@@ -1,0 +1,13 @@
+package com.amazon.sample;
+//run using command line arguments
+public class AddThreeNumbersEx {
+
+	public static void main(String[] args) {
+
+		int firstNumberInt = Integer.parseInt(args[0]);
+		int sectNumberInt = Integer.parseInt(args[1]);
+		int thirdtNumberInt = Integer.parseInt(args[2]);
+
+		System.out.println(firstNumberInt + sectNumberInt + thirdtNumberInt);
+	}
+}

@@ -1,0 +1,5 @@
+package com.amazon.sample;
+//run using command line arguments
+public class AddTwoNumbersByNonStaticMethod {
+
+}

@@ -1,0 +1,14 @@
+package com.kodewala.loops;
+// SbiCustomer
+public class SBI {
+
+	public static void main(String[] args) {
+
+		SbiCustomer sc1 = new SbiCustomer("Kodewala", 1800, "9687726354");
+		SbiCustomer sc2 = new SbiCustomer("Rahul", 5000, "9687726354");
+		SbiCustomer sc3 = new SbiCustomer("Mayank", 1750, "9687726354");
+		SbiCustomer sc4 = new SbiCustomer("Yuvraj", 1800, "9687726354");
+		SbiCustomer sc5 = new SbiCustomer("Kodewala", 6000, "9687726354");
+
+	}
+}

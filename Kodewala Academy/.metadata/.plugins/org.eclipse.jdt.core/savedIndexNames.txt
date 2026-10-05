@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+E:\Kodewala Academy\.metadata\.plugins\org.eclipse.jdt.core
+2749862014.index
+4256068322.index
+2178751970.index
+2625139774.index
+2324617809.index
+1048350443.index
+1353826651.index
+1865797976.index
+885150748.index

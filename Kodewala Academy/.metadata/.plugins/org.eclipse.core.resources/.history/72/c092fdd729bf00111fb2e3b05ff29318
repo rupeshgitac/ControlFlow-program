@@ -1,0 +1,29 @@
+package com.kodewala.scan;
+
+import java.util.Scanner;
+
+public class Driver {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in); // Create(open) connection from console
+
+		System.out.println("Enter the name... : ");
+		String name = sc.nextLine(); // Reading String input
+
+		System.out.println("Enter the price... : ");
+		int price = sc.nextInt(); // reading integer value--->This will leave new line char \n
+		
+
+		System.out.println("Enter delivery address... : ");
+		String address = sc.nextLine(); // Reading String input
+
+		System.out.println("Name is : " + name);
+		System.out.println("Price is : " + price);
+		System.out.println("Address is : " + address);
+
+		sc.close(); // close the connection
+
+	}
+
+}

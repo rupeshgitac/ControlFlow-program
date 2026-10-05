@@ -1,0 +1,14 @@
+package com.kodewala.control.flow;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		
+		Booking booking = new Booking();
+		
+		booking.doBooking("SMVT", "BSB", 7);
+		System.out.println();
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package com.kodewala.loops3;
+
+public class Driver2 {
+
+	public static void main(String[] args) {
+
+		// 1000 cities
+		String[] cities = { "Bangalore", "Mumbai", "Delhi", "Chennai", "Hyderabad", "Pune", "Bangalore", "Ahmedabad",
+				"Jaipur", "Hyderabad", "Lucknow", "Kanpur", "Nagpur", "Indore", "Bhopal", "Patna", "Vadodara",
+				"Coimbatore", "Kochi", "Varanasi", "Agra", "Varanasi", "Nashik", "Mysore", "Chandigarh", "Ranchi",
+				"Guwahati", "Amritsar", "Noida", "Gurgaon" };
+
+		// find if Bangalore is part of this city list or not
+		for (int index = 0; index < cities.length; index++) {
+
+			String currentCity = cities[index];
+			if (currentCity.equals("Bangalore")) {
+				System.out.println("Bangalore is the part of city list");
+				break; // break the loop--> you will come out the loop
+			}
+		}
+	}
+
+}

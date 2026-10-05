@@ -1,0 +1,16 @@
+package com.kodewala.loops2;
+
+public class OddNumberUsingWhile {
+
+	public static void main(String[] args) {
+
+		int i = 1;
+
+		while (i <= 20) { // this will execute till condition is true
+
+			System.out.println(i);
+
+			i = i + 2;
+		}
+	}
+}

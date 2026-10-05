@@ -1,0 +1,22 @@
+package com.kodewala.loops3;
+
+public class Driver3 {
+
+	public static void main(String[] args) {
+
+		// 100k
+		int[] numbers = { 10, -25, 35, -40, 55, -60, 75, -80, 95, -100, 15, 3045, 50, 65, 85, 90 };
+
+		// multiply +ve number by 10
+		for (int index = 0; index < numbers.length; index++) {
+
+			int currentNumber = numbers[index];
+
+			if (currentNumber < 0) {
+				continue;
+			}
+			System.out.println(currentNumber * 10);
+		}
+	}
+
+}

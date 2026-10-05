@@ -1,0 +1,31 @@
+package com.kodewala.loops;
+
+// SbiCustomer
+public class SBI {
+
+	public static void main(String[] args) {
+
+		// Creating customer object
+
+		SbiCustomer customer1 = new SbiCustomer("Kodewala", 1800, "9687726354");
+		SbiCustomer customer2 = new SbiCustomer("Rahul", 5000, "9687726354");
+		SbiCustomer customer3 = new SbiCustomer("Mayank", 1750, "9687726354");
+		SbiCustomer customer4 = new SbiCustomer("Yuvraj", 30000, "9687726354");
+		SbiCustomer customer5 = new SbiCustomer("Vishal", 1400, "9687726354");
+
+		// Storing all customer in an array
+
+		SbiCustomer[] customers = { customer1, customer2, customer3, customer4, customer5 };
+
+		// for loop
+		for (int i = 0; i < customers.length; i++) {
+
+			// check balance
+			if (customers[i].accBalance < 2000) {
+
+				System.out.println(customers[i].customerName + " , " + customers[i].accBalance);
+			}
+		}
+
+	}
+}

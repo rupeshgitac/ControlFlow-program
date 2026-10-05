@@ -1,0 +1,13 @@
+package com.kodewala.loops3;
+
+public class Driver2 {
+
+	public static void main(String[] args) {
+
+		String[] cities = { "Bangalore", "Mumbai", "Delhi", "Chennai", "Hyderabad", "Pune", "Bangalore", "Ahmedabad",
+				"Jaipur", "Hyderabad", "Lucknow", "Kanpur", "Nagpur", "Indore", "Bhopal", "Patna", "Vadodara",
+				"Coimbatore", "Kochi", "Varanasi", "Agra", "Varanasi", "Nashik", "Mysore", "Chandigarh", "Ranchi",
+				"Guwahati", "Amritsar", "Noida", "Gurgaon" };
+	}
+
+}

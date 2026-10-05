@@ -1,0 +1,18 @@
+package com.kodewala.loops3;
+
+// do-while loop
+public class Driver1 {
+
+	public static void main(String[] args) {
+		
+		int input = 5;
+		
+		do {
+			System.out.println("do while loop...");
+		} while(input>10); //condition false then still it will execute at least once
+			
+		
+		
+	}
+
+}

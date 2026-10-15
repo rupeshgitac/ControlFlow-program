@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Anagrams.java&apos; to &apos;java_app_1/src/anagram_program&apos;&#x0D;&#x0A;- Original project: &apos;java_app_1&apos;&#x0D;&#x0A;- Destination element: &apos;java_app_1/src/anagram_program&apos;&#x0D;&#x0A;- Original element: &apos;anagram_program.Anagrams.java&apos;" description="Copy compilation unit" destination="/src&lt;anagram_program" element1="/src&lt;anagram_program{Anagrams.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1757532139967" units="1" version="1.0"/>
+</session>

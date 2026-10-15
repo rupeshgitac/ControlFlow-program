@@ -1,0 +1,49 @@
+2025-09-03 17:44:41.042: [INFO] OnDoneLoading sync enabled: 0
+2025-09-03 17:53:44.023: [INFO] OnDoneLoading sync enabled: 0
+2025-09-03 17:54:28.806: [INFO] OnDoneLoading sync enabled: 0
+2025-09-03 17:55:37.460: [INFO] OnDoneLoading sync enabled: 0
+2025-09-03 17:56:50.375: [INFO] OnDoneLoading sync enabled: 0
+2025-09-10 18:15:51.587: [INFO] OnDoneLoading sync enabled: 0
+2025-09-10 19:09:58.971: [INFO] OnDoneLoading sync enabled: 0
+2025-09-10 19:31:05.359: [INFO] OnDoneLoading sync enabled: 0
+2025-10-27 15:45:23.800: [INFO] OnDoneLoading sync enabled: 0
+2025-10-27 16:32:03.138: [INFO] OnDoneLoading sync enabled: 0
+2025-11-04 16:15:12.142: [INFO] OnDoneLoading sync enabled: 0
+2025-11-19 17:36:17.084: [INFO] OnDoneLoading sync enabled: 0
+2025-11-25 15:08:52.544: [INFO] OnDoneLoading sync enabled: 0
+2025-11-25 15:13:49.677: [INFO] OnDoneLoading sync enabled: 0
+2025-11-25 15:20:59.389: [INFO] OnDoneLoading sync enabled: 0
+2025-11-25 15:26:10.751: [INFO] OnDoneLoading sync enabled: 0
+2025-12-26 09:32:48.380: [INFO] OnDoneLoading sync enabled: 0
+2025-12-26 09:38:42.554: [INFO] OnDoneLoading sync enabled: 0
+2026-01-26 09:48:00.805: [INFO] OnDoneLoading sync enabled: 0
+2026-01-26 09:48:33.745: [INFO] OnDoneLoading sync enabled: 0
+2026-01-28 10:09:23.658: [INFO] OnDoneLoading sync enabled: 0
+2026-02-05 09:04:01.727: [INFO] OnDoneLoading sync enabled: 0
+2026-02-05 09:23:28.975: [INFO] OnDoneLoading sync enabled: 0
+2026-02-05 09:23:49.582: [INFO] OnDoneLoading sync enabled: 0
+2026-02-05 09:31:02.735: [INFO] OnDoneLoading sync enabled: 0
+2026-02-05 09:35:51.748: [INFO] OnDoneLoading sync enabled: 0
+2026-02-13 17:22:44.082: [INFO] OnDoneLoading sync enabled: 0
+2026-02-20 13:41:19.371: [INFO] OnDoneLoading sync enabled: 0
+2026-02-21 09:07:13.601: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 04:22:19.498: [INFO] CurrentProfilePath: E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 04:22:19.498: [INFO] Profiles total count: 1
+2026-09-21 04:22:19.499: [INFO] Profile: name=Profile 1 path=E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2025-09-10T19:15:31.166Z
+2026-09-21 04:22:19.499: [INFO] LastUsedProfileDir: E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 04:22:19.499: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2025-09-10T19:15:31.166Z
+2026-09-21 04:22:19.499: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 04:22:19.499: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 04:22:19.499: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 04:22:19.499: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 04:22:58.393: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 04:47:33.875: [INFO] CurrentProfilePath: E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 04:47:33.875: [INFO] Profiles total count: 1
+2026-09-21 04:47:33.875: [INFO] Profile: name=Profile 1 path=E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2025-09-10T19:15:31.166Z
+2026-09-21 04:47:33.875: [INFO] LastUsedProfileDir: E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 04:47:33.875: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Java program\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2025-09-10T19:15:31.166Z
+2026-09-21 04:47:33.875: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 04:47:33.875: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 04:47:33.875: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 04:47:33.875: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 04:47:53.439: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

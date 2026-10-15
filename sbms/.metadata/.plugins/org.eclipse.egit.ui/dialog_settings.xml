@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="1"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/innoventesjobs/innoventes-springboot-test-j8-2022jsbp01.git"/>
+		<item value="https://github.com/rupeshgitac/Springboot-Restapi-CRUD.git"/>
+		<item value="file://E:\CloneRepository"/>
+		<item value="https://github.com:8080/https://github.com/innoventesjobs/innoventes-springboot-test-j8-2022jsbp01.git"/>
+		<item value="https://github.com/https://github.com/innoventesjobs/innoventes-springboot-test-j8-2022jsbp01.git"/>
+	</list>
+	<section name="GitImportWizard">
+		<section name="GitImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="429"/>
+			<item key="DIALOG_Y_ORIGIN" value="35"/>
+			<item key="DIALOG_WIDTH" value="801"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

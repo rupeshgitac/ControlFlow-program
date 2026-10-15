@@ -686,3 +686,391 @@
 2026-10-05 05:20:54.123: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-05 05:20:54.123: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-05 15:16:50.051: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-06 03:38:06.768: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-06 03:38:06.768: [INFO] Profiles total count: 1
+2026-10-06 03:38:06.769: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-28T09:20:15.016Z
+2026-10-06 03:38:06.769: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-06 03:38:06.769: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-28T09:20:15.016Z
+2026-10-06 03:38:06.769: [INFO] OnDoneLoading sync enabled: 0
+2026-10-06 03:38:06.769: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-06 03:38:06.769: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-06 03:38:06.769: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-06 06:01:55.782: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-06 09:33:26.469: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-06 09:33:26.469: [INFO] Profiles total count: 1
+2026-10-06 09:33:26.469: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-28T09:20:15.016Z
+2026-10-06 09:33:26.469: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-06 09:33:26.469: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-28T09:20:15.016Z
+2026-10-06 09:33:26.469: [INFO] OnDoneLoading sync enabled: 0
+2026-10-06 09:33:26.469: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-06 09:33:26.469: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-06 09:33:26.469: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-06 09:40:25.928: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-06 09:44:03.281: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-06 09:44:03.281: [INFO] Profiles total count: 1
+2026-10-06 09:44:03.281: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-28T09:20:15.016Z
+2026-10-06 09:44:03.281: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-06 09:44:03.281: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-28T09:20:15.016Z
+2026-10-06 09:44:03.281: [INFO] OnDoneLoading sync enabled: 0
+2026-10-06 09:44:03.281: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-06 09:44:03.281: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-06 09:44:03.281: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-06 11:34:53.388: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 03:24:44.992: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 03:24:44.992: [INFO] Profiles total count: 1
+2026-10-07 03:24:44.992: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-07 03:24:44.992: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 03:24:44.992: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-07 03:24:44.992: [INFO] OnDoneLoading sync enabled: 0
+2026-10-07 03:24:44.992: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-07 03:24:44.992: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-07 03:24:44.992: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 04:26:30.735: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 04:26:52.443: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 04:26:52.443: [INFO] Profiles total count: 1
+2026-10-07 04:26:52.443: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-07 04:26:52.443: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 04:26:52.443: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-07 04:26:52.444: [INFO] OnDoneLoading sync enabled: 0
+2026-10-07 04:26:52.444: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-07 04:26:52.444: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-07 04:26:52.444: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 11:32:49.618: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 11:32:49.618: [INFO] Profiles total count: 1
+2026-10-07 11:32:49.618: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-07 11:32:49.618: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-07 11:32:49.618: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-07 11:32:49.618: [INFO] OnDoneLoading sync enabled: 0
+2026-10-07 11:32:49.618: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-07 11:32:49.618: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-07 11:32:49.618: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-07 11:37:03.167: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 03:13:08.448: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 03:13:08.448: [INFO] Profiles total count: 1
+2026-10-08 03:13:08.448: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 03:13:08.448: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 03:13:08.448: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 03:13:08.448: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 03:13:08.448: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 03:13:08.448: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 03:13:08.448: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 03:13:13.223: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 03:23:58.120: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 03:23:58.120: [INFO] Profiles total count: 1
+2026-10-08 03:23:58.120: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 03:23:58.120: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 03:23:58.121: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 03:23:58.121: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 03:23:58.121: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 03:23:58.121: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 03:23:58.121: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 04:26:38.565: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 04:33:51.743: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 04:33:51.743: [INFO] Profiles total count: 1
+2026-10-08 04:33:51.743: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 04:33:51.743: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 04:33:51.743: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 04:33:51.743: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 04:33:51.743: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 04:33:51.743: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 04:33:51.743: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 05:08:14.460: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 05:08:14.460: [INFO] Profiles total count: 1
+2026-10-08 05:08:14.461: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 05:08:14.461: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 05:08:14.461: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 05:08:14.461: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 05:08:14.461: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 05:08:14.461: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 05:08:14.461: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 05:27:15.123: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 05:34:29.097: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 05:34:29.097: [INFO] Profiles total count: 1
+2026-10-08 05:34:29.097: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 05:34:29.097: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 05:34:29.097: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 05:34:29.097: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 05:34:29.097: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 05:34:29.097: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 05:34:29.097: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 05:47:19.591: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 06:03:36.720: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 06:03:36.720: [INFO] Profiles total count: 1
+2026-10-08 06:03:36.721: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 06:03:36.721: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 06:03:36.721: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 06:03:36.721: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 06:03:36.721: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 06:03:36.721: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 06:03:36.721: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 06:10:29.672: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 10:05:58.157: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 10:05:58.157: [INFO] Profiles total count: 1
+2026-10-08 10:05:58.157: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 10:05:58.157: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 10:05:58.157: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 10:05:58.157: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 10:05:58.157: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 10:05:58.157: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 10:05:58.157: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 10:05:58.626: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 10:08:50.625: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 10:08:50.625: [INFO] Profiles total count: 1
+2026-10-08 10:08:50.626: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 10:08:50.626: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 10:08:50.626: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 10:08:50.626: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 10:08:50.626: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 10:08:50.626: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 10:08:50.626: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 11:03:16.464: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 11:03:44.214: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 11:03:44.214: [INFO] Profiles total count: 1
+2026-10-08 11:03:44.214: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 11:03:44.214: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 11:03:44.214: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-08 11:03:44.215: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 11:03:44.215: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 11:03:44.215: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 11:03:44.215: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 11:51:05.353: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 03:11:06.205: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 03:11:06.205: [INFO] Profiles total count: 1
+2026-10-09 03:11:06.206: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 03:11:06.206: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 03:11:06.206: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 03:11:06.206: [INFO] OnDoneLoading sync enabled: 0
+2026-10-09 03:11:06.206: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-09 03:11:06.206: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-09 03:11:06.206: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 03:12:26.596: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 03:37:53.441: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 03:37:53.441: [INFO] Profiles total count: 1
+2026-10-09 03:37:53.441: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 03:37:53.441: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 03:37:53.441: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 03:37:53.441: [INFO] OnDoneLoading sync enabled: 0
+2026-10-09 03:37:53.441: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-09 03:37:53.441: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-09 03:37:53.441: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 03:38:15.600: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 04:05:12.042: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 04:05:12.042: [INFO] Profiles total count: 1
+2026-10-09 04:05:12.042: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 04:05:12.042: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 04:05:12.042: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 04:05:12.042: [INFO] OnDoneLoading sync enabled: 0
+2026-10-09 04:05:12.042: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-09 04:05:12.042: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-09 04:05:12.042: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 05:15:32.114: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 05:16:28.538: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 05:16:28.538: [INFO] Profiles total count: 1
+2026-10-09 05:16:28.538: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 05:16:28.538: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-09 05:16:28.538: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-09 05:16:28.538: [INFO] OnDoneLoading sync enabled: 0
+2026-10-09 05:16:28.538: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-09 05:16:28.538: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-09 05:16:28.538: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-09 06:08:41.317: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-11 10:36:11.890: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-11 10:36:11.890: [INFO] Profiles total count: 1
+2026-10-11 10:36:11.890: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-11 10:36:11.890: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-11 10:36:11.890: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-11 10:36:11.890: [INFO] OnDoneLoading sync enabled: 0
+2026-10-11 10:36:11.890: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-11 10:36:11.890: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-11 10:36:11.890: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-11 11:37:16.070: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-11 11:41:17.606: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-11 11:41:17.606: [INFO] Profiles total count: 1
+2026-10-11 11:41:17.607: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-11 11:41:17.607: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-11 11:41:17.607: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-11 11:41:17.607: [INFO] OnDoneLoading sync enabled: 0
+2026-10-11 11:41:17.607: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-11 11:41:17.607: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-11 11:41:17.607: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-11 12:07:59.062: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-11 12:07:59.317: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-11 12:07:59.317: [INFO] Profiles total count: 1
+2026-10-11 12:07:59.317: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-11 12:07:59.317: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-11 12:07:59.317: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-11 12:07:59.317: [INFO] OnDoneLoading sync enabled: 0
+2026-10-11 12:07:59.317: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-11 12:07:59.317: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-11 12:07:59.317: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-11 12:28:20.220: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 03:31:54.207: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 03:31:54.207: [INFO] Profiles total count: 1
+2026-10-12 03:31:54.207: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 03:31:54.207: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 03:31:54.207: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 03:31:54.207: [INFO] OnDoneLoading sync enabled: 0
+2026-10-12 03:31:54.207: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-12 03:31:54.207: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-12 03:31:54.207: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 04:12:56.976: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 05:08:41.802: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 05:08:41.802: [INFO] Profiles total count: 1
+2026-10-12 05:08:41.802: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 05:08:41.802: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 05:08:41.802: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 05:08:41.802: [INFO] OnDoneLoading sync enabled: 0
+2026-10-12 05:08:41.802: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-12 05:08:41.802: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-12 05:08:41.802: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 05:09:48.064: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 05:14:07.288: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 05:14:07.288: [INFO] Profiles total count: 1
+2026-10-12 05:14:07.288: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 05:14:07.288: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 05:14:07.288: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 05:14:07.288: [INFO] OnDoneLoading sync enabled: 0
+2026-10-12 05:14:07.288: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-12 05:14:07.288: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-12 05:14:07.288: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 06:26:09.594: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 10:21:01.738: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:21:01.738: [INFO] Profiles total count: 1
+2026-10-12 10:21:01.738: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:21:01.738: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:21:01.738: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:21:01.738: [INFO] OnDoneLoading sync enabled: 0
+2026-10-12 10:21:01.738: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-12 10:21:01.738: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-12 10:21:01.738: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 10:29:15.228: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 10:34:27.805: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:34:27.805: [INFO] Profiles total count: 1
+2026-10-12 10:34:27.805: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:34:27.805: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:34:27.805: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:34:27.805: [INFO] OnDoneLoading sync enabled: 0
+2026-10-12 10:34:27.805: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-12 10:34:27.805: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-12 10:34:27.805: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 10:37:11.681: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 10:46:01.084: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:46:01.084: [INFO] Profiles total count: 1
+2026-10-12 10:46:01.084: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:46:01.084: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:46:01.084: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:46:01.085: [INFO] OnDoneLoading sync enabled: 0
+2026-10-12 10:46:01.085: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-12 10:46:01.085: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-12 10:46:01.085: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 10:48:26.306: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 10:52:14.127: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:52:14.127: [INFO] Profiles total count: 1
+2026-10-12 10:52:14.128: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:52:14.128: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-12 10:52:14.128: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-12 10:52:14.128: [INFO] OnDoneLoading sync enabled: 0
+2026-10-12 10:52:14.128: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-12 10:52:14.128: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-12 10:52:14.128: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-12 11:37:21.336: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 13:26:00.838: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 13:26:00.838: [INFO] Profiles total count: 1
+2026-10-13 13:26:00.838: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-13 13:26:00.838: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 13:26:00.838: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-13 13:26:00.838: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 13:26:00.838: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 13:26:00.838: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 13:26:00.838: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 13:26:16.775: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 13:44:55.828: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 13:44:55.828: [INFO] Profiles total count: 1
+2026-10-13 13:44:55.828: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-13 13:44:55.828: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 13:44:55.828: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-13 13:44:55.829: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 13:44:55.829: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 13:44:55.829: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 13:44:55.829: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 13:49:40.117: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 13:50:03.925: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 13:50:03.925: [INFO] Profiles total count: 1
+2026-10-13 13:50:03.925: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-13 13:50:03.925: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 13:50:03.925: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-13 13:50:03.925: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 13:50:03.925: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 13:50:03.925: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 13:50:03.925: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 16:10:21.386: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 03:01:26.330: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 03:01:26.330: [INFO] Profiles total count: 1
+2026-10-14 03:01:26.330: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 03:01:26.330: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 03:01:26.330: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 03:01:26.330: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 03:01:26.330: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 03:01:26.330: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 03:01:26.330: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 03:03:20.487: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 04:04:55.812: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 04:04:55.812: [INFO] Profiles total count: 1
+2026-10-14 04:04:55.812: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 04:04:55.812: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 04:04:55.812: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 04:04:55.812: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 04:04:55.812: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 04:04:55.812: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 04:04:55.812: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 04:20:43.003: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 04:38:08.313: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 04:38:08.313: [INFO] Profiles total count: 1
+2026-10-14 04:38:08.313: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 04:38:08.313: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 04:38:08.313: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 04:38:08.313: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 04:38:08.313: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 04:38:08.313: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 04:38:08.313: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 04:56:55.590: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 05:10:24.583: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 05:10:24.583: [INFO] Profiles total count: 1
+2026-10-14 05:10:24.584: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 05:10:24.584: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 05:10:24.584: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 05:10:24.584: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 05:10:24.584: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 05:10:24.584: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 05:10:24.584: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 05:36:36.590: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 11:08:47.820: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 11:08:47.820: [INFO] Profiles total count: 1
+2026-10-14 11:08:47.820: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 11:08:47.820: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-14 11:08:47.820: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-06T09:44:10.338Z
+2026-10-14 11:08:47.820: [INFO] OnDoneLoading sync enabled: 0
+2026-10-14 11:08:47.820: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-14 11:08:47.820: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-14 11:08:47.820: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-14 13:13:16.464: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 03:20:29.685: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 03:20:29.685: [INFO] Profiles total count: 1
+2026-10-15 03:20:29.685: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T11:35:27.434Z
+2026-10-15 03:20:29.686: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 03:20:29.686: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T11:35:27.434Z
+2026-10-15 03:20:29.686: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 03:20:29.686: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 03:20:29.686: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 03:20:29.686: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 04:30:02.692: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 09:45:53.885: [INFO] CurrentProfilePath: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 09:45:53.885: [INFO] Profiles total count: 1
+2026-10-15 09:45:53.885: [INFO] Profile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T11:35:27.434Z
+2026-10-15 09:45:53.885: [INFO] LastUsedProfileDir: E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 09:45:53.885: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Kodewala Academy\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T11:35:27.434Z
+2026-10-15 09:45:53.885: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 09:45:53.885: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 09:45:53.885: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 09:45:53.885: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 10:47:00.669: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

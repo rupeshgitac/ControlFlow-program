@@ -1,9 +1,0 @@
-package com.kodewala.loops;
-
-public class SBI {
-
-	public static void main(String[] args) {
-
-		SbiCustomer sc1 = new SbiCustomer("Kodewala", 1800, "9687726354");
-	}
-}
